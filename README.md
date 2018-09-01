@@ -1,5 +1,4 @@
 # Data Scientist Nanodegree
-# Big Data and Map Reduce Analysis
 ## Project 3: Analyzing Subway NY Data
 
 ### Install
@@ -21,14 +20,14 @@ Template code is provided in the `analyzing_subway_ny_data.ipynb` notebook file.
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `analyzing_subway_NY_data/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook analyzing_subway_ny_data.ipynb
+ipython notebook 20180826_analyzing-subway-data.ipynb
 ```  
 or
 ```bash
-jupyter notebook analyzing_subway_ny_data.ipynb
+jupyter notebook 20180826_analyzing-subway-data.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
